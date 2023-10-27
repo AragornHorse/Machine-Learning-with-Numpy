@@ -30,4 +30,6 @@ A machine learning code repository writing with numpy. Most of the codes are lab
   + GAN
   + Diffusion
   + Latent Diffusion
+  + LDA
+  + SVM
 
